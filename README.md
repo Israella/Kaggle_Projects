@@ -1,5 +1,4 @@
 
 <div align="center">
-<img src="https://github.com/Israella/Projeto-1/assets/89945563/4239b278-1407-424a-96f1-c6e4acb240d0
-" />
+<img src="https://github.com/Israella/Kaggle_Projects/assets/89945563/685fc502-4ca4-4b00-a2ac-78aea283e60e" />
 </div>
